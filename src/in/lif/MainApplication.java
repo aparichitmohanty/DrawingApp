@@ -10,6 +10,8 @@ public class MainApplication {
 
 	public static void main(String[] args) {
 		
+		//Main Application Changed
+		
 		Shape triangleShape = new Triangle();
 		Shape circleShape = new Circle();
 		
