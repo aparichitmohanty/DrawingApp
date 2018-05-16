@@ -10,4 +10,8 @@ public class Drawing {
 	public void drawShape(){
 		this.shape.draw();
 	}
+	
+	public void message() {
+		System.out.println("Enjoy");
+	}
 }
